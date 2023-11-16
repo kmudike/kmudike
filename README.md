@@ -1,4 +1,5 @@
 ### Hi there 👋
+![ezgif com-webp-to-jpg](https://github.com/kmudike/kmudike/assets/145083232/829c0846-9e30-4f46-8d6d-dd2b1d5c7a01)
 
 <!--
 **kmudike/kmudike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
