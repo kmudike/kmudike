@@ -4,6 +4,7 @@ Passionate about leveraging data to derive meaningful insights and solve complex
 <p align="center">
   <img src="love.jpeg"  width="200" height="200" style="border-radius: 50%;">
 </p>
+
 ## Skills
 - **Programming Languages:** Python (NumPy, Pandas, Scikit-Learn), R, SQL
 - **Machine Learning:** Regression, Classification, Clustering, Neural Networks
